@@ -54,3 +54,9 @@ switch (true) { //o true faz comparar qual desses casos é verdadeiro, e executa
         console.log("Carga inválida ou bateria zerada!");
         break;
 }
+
+/*Equipe 3:
+David Santos
+Gabriel Ramos Ferreira
+Karla Santos
+Railson Uchoa*/ 
