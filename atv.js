@@ -12,12 +12,11 @@ console.log(`${nom1} não possui identidade? Sistema: ${identidade}`);
 // 4 - Use os operadores lógicos AND OR NOT e as estruturas condicionais (2 ponto)
 let dia = true;
 let noite = false;
-const data = 24;
 
 if (dia && noite){
     console.log("Está de madrugada.");
 } else if (!dia || !noite){
-    console.log("Pode sair.");
+    console.log("Pode sair de casa.");
 } else {
     console.log("Que horas são?");
 }
